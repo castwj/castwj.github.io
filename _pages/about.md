@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-我是[中国农业大学(CAU)](http://www.cau.edu.cn)[动物科学技术学院]()的硕士研究生王冀，majoring in动物遗传育种方向，预计于2024年6月份毕业。
-我主要的研究兴趣在畜禽遗传育种，DL for animal genetics，泛基因组学
+I am Ji Wang (王冀), a Master's student from the [College of Animal Science and Technology](http://cast1.cau.edu.cn/index.html) at [China Agricultural University (CAU)](http://www.cau.edu.cn/). My major is Animal Genetics and Breeding, and I am expected to graduate in June 2024.
+
+My primary research interests include adversarial robustness, graph mining, federated learning, differential privacy, as well as their intersections.
 
 Current
 ======
@@ -31,6 +32,7 @@ Outstanding Student Leader Award, 2020
 The Third Price Scholarship, 2020
 
 Excellent Volunteer, 2019
+
 ...
 
 Activities
