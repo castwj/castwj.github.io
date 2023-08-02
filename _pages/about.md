@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Ji Wang (王冀), a Master's student from the [College of Animal Science and Technology](http://cast1.cau.edu.cn/index.html) at [China Agricultural University (CAU)](http://www.cau.edu.cn/). My major is Animal Genetics and Breeding, and I am expected to graduate in June 2024.
 
-My primary research interests include adversarial robustness, graph mining, federated learning, differential privacy, as well as their intersections.
+My primary research interests include ai for genomics, association analysis, pan-genomics and the regulation of gene expression.
 
 Current
 ======
