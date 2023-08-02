@@ -8,23 +8,32 @@ author_profile: true
 
 # Research interets
 
-1. Federal learning
-   - graph mining
-   - differntial privacy
-2. Adversarial Robustness
-
+1. Deep Learning for Genomics
+   - Variants score
+   - Regulatory element predict
+   - Gene expression prediction model
+2. Genotype and phenotype data simulation and software comparison
+3. Association analysis and fine mapping
+   - molQTL
+   - statistical fine-mapping
+4. Pan-genomics
 ---
 
 # Projects
 
-## 1. Interpretable adversarial attacks with causal disentangled representations
+## 1. PorcineAI-enhancer: Prediction of Pig Enhancer Sequences Using Convolutional Neural Networks
 
-*Summer Research Program at HKUST*
+Supervisor: Prof. [Liangke Wu](http://cast1.cau.edu.cn/art/2022/3/8/art_44918_1.html)
 
-Supervisor: Prof. [Tong Zhang](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860)
+June 2022 --- May. 2023, CAU
 
-June 2022 --- Aug. 2022, HKUST
+In this research, I propose a method of integrating CNN architecture to predict pig enhancer sequences, achieving satisfactory performance. The prediction accuracy is around 90% for general enhancer sequences and over 70% for tissue-specific enhancers.
 
+## 2. Comparison for association analysis and fine mapping software
 
-In this research, we explore the relationship between causal disentanglement and adversarial attack. We propose a prospective method to detect adversarial examples by causal disentanglement and provide a direct interpretation for the adversarial noise from causal perspectives.
+Supervisor: Prof. [Lingzhao Fang](https://pure.au.dk/portal/en/persons/lingzhao-fang(4e548f18-1d3b-4395-b7ad-6c7b7d1d1f79).html)
+
+September 2022 --- Now, CAU
+
+In this study, I first simulated genotype and phenotype data, then divided association analysis software and fine mapping software based on statistical principles, and studied their performance differences.
 
