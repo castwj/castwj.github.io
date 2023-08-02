@@ -23,17 +23,24 @@ Education
 Honors and Awards
 ------
 The Second Price Scholarship, 2022
+
 Outstanding Thesis, 2021
+
 Outstanding Student Leader Award, 2020
+
 The Third Price Scholarship, 2020
+
 Excellent Volunteer, 2019
 ...
 
 Activities
 ------
 Member of **Farm animal Genotype-Tissue Expression (FarmGTEx) project**
+
 Trainees of **Comprehensive Training Program for Graduate Students in Smart Agriculture (Artificial Intelligence +)**
+
 Trainees of the **DBN China-Israel Agritech Innovation Talent Training Program**
+
 Attendee of **Twenty-first Chinese National Conference on Animal Genetics and Breeding**
 
 
