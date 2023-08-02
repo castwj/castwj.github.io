@@ -1,22 +1,19 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
-#此配置文件用于影响整个站点的设置、值
 # which you are expected to set up once and rarely need to edit after that.
-#您应该设置一次，之后很少需要编辑。
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-#出于技术原因，此文件*NOT*在您使用时自动重新加载
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Xiaolong Jin"
+locale                   : "CHN"
+title                    : "Ji Wang"
 title_separator          : "-"
-name                     : &name "Xiaolong Jin"
+name                     : &name "Ji Wang"
 description              : &description "personal description"
-url                      : https://jinxiaolong1129.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://castwj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jinxiaolong1129/Jinxiaolong1129.github.io"
+repository               : "castwj/castwj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -34,14 +31,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message','zhihu']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message', 'zhihu']
+  requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -83,24 +80,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaolong Jin"
-  avatar           : "academic50k.png"
-  bio              : "Be Positive!"
-  location         : "Hefei, China"
-  employer         : "USTC"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  name             : "Ji Wang"
+  avatar           : "wangji.png"
+  bio              : "No pain, no gain."
+  location         : "Beijing, China"
+  employer         : "CAU"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  # zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
-  email            : "jinxiaolong1129@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :  
+  email            : "ji.wang@cau.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Wang-Ji-9"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jinxiaolong1129"
+  github           : "castwj"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,9 +109,10 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JxlDragon"
+  twitter          : "caucastwj"
   vine             :
   weibo            :
+  xing             :
   youtube          :
   wikipedia        :
 
@@ -280,7 +277,6 @@ whitelist:
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  使用 Liquid 构建的 GitHub Pages 兼容存档页面 ~> 类型：liquid（默认）
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
