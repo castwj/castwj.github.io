@@ -1,52 +1,39 @@
 ---
 permalink: /
-title: ""
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+我是[中国农业大学(CAU)](http://www.cau.edu.cn)[动物科学技术学院]()的硕士研究生王冀，majoring in动物遗传育种方向，预计于2024年6月份毕业。
+我主要的研究兴趣在畜禽遗传育种，DL for animal genetics，泛基因组学
 
 Current
-===
-
-*I am looking for a Ph.D. position in machine learning.*
-
-
-Short Bio
-===
-
-I am **Xiaolong Jin (金小龙)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Statistics. 
-
-My primary research interests are adversarial robustness, graph mining, federated learning, differntial privacy and their intersections.
-
+======
+*I am looking for a PhD position in Animal Science or Bioinformatics.*
 
 Education
-===
-* Sept. 2019 --- June 2023: B.Sc. in Mathematical Analysis, School of the Gifted Young, University of Science and Technology of China (expected)
-* Sept. 2016 --- June 2019: The High School Attached to Northwest Normal University
+======
+* Sept. 2021 --- June 2024: *M.Agr. in  Animal Genetics, Breeding and Reproduction*, College of Animal Science, South China Agricultural University (expected)
+* Sept. 2017 --- June 2021: *B.Agr. in Animal Science*, College of Animal Science, South China Agricultural University
+* Sept. 2014 --- June 2017: HEFEI NO.1 HIGH SCHOOL
 
 Honors and Awards
-===
-* Outstanding Freshman Scholarship    **Top 5%**     2019
-* Outstanding Undergraduate Scholarship, Gold award    **Top 3%**     2020 
-* Outstanding Undergraduate Scholarship, Bronze award  **Top 10%**     2022, 2021 
-* National Grants     **Top 5%**   2022, 2021, 2019
-
+------
+The Second Price Scholarship, 2022
+Outstanding Thesis, 2021
+Outstanding Student Leader Award, 2020
+The Third Price Scholarship, 2020
+Excellent Volunteer, 2019
+...
 
 Activities
-===
-* TA in *Mathematical Analysis B*, 2021 Fall
-* Editor of the Wechat account of School of Gifted Young, USTC
-* Member of School of Gifted Young Student Union
-* Attendee of ACM TURC 2021, Hefei, China
+------
+Member of **Farm animal Genotype-Tissue Expression (FarmGTEx) project**
+Trainees of **Comprehensive Training Program for Graduate Students in Smart Agriculture (Artificial Intelligence +)**
+Trainees of the **DBN China-Israel Agritech Innovation Talent Training Program**
+Attendee of **Twenty-first Chinese National Conference on Animal Genetics and Breeding**
 
 
-<script>
-document.write("Last modifid at: "+document.lastModified+"" )
-</script>
-
----
-
-<a href="https://info.flagcounter.com/21GO"><img src="https://s01.flagcounter.com/map/21GO/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
