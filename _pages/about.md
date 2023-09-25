@@ -17,9 +17,8 @@ Current
 
 Education
 ======
-* Sept. 2021 --- June 2024: *M.Agr. in  Animal Genetics, Breeding and Reproduction*, College of Animal Science, South China Agricultural University (expected)
+* Sept. 2021 --- June 2024: *M.Agr. in  Animal Genetics, Breeding and Reproduction*, College of Animal Science, China Agricultural University (expected)
 * Sept. 2017 --- June 2021: *B.Agr. in Animal Science*, College of Animal Science, South China Agricultural University
-* Sept. 2014 --- June 2017: HEFEI NO.1 HIGH SCHOOL
 
 Honors and Awards
 ------
